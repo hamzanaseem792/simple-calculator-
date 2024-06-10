@@ -1,0 +1,6 @@
+many function bna ka solve karna A
+phaly ma dom sa access karun ga jo jo access karny wala a phir event listen chalun ga btn par aur sath sath values input ki update karnay ka li mujhy varibales declare karny paray ga 
+
+phir ma aik function bnaun ga jo check kar ka perform karnay ka liay at least two values aur aik operator ho agar wo hoga to aik aur function jo many bnaia hoga call kar dun ga aur wo function wo hoga jis ma ma ya to case ya if else koi bhi conditional stament laga ka result return karwa dun ga 
+phir me event listenr function button pa lagaun ga on click agar plus - wagira sa kuch bhi click hota a to operate call hojiay ga , aur wo e operate true hoga to do wala function call hojaiy ga 
+aur sath sath ma variables updatebi karta jaun ga  
